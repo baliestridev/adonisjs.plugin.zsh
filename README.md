@@ -19,7 +19,7 @@ Plugin for skipping the `node` part from the `ace` command. Supports AdonisJS v5
 #### [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ```shell
-git clone https://github.com/empresslabs/adonisjs.plugin.zsh.git $ZSH_CUSTOM/plugins/adonisjs
+git clone https://github.com/baliestridev/adonisjs.plugin.zsh.git $ZSH_CUSTOM/plugins/adonisjs
 ```
 
 ```shell
@@ -30,25 +30,25 @@ plugins=(... adonisjs)
 #### [zinit](https://github.com/zdharma-continuum/zinit)
 
 ```shell
-zinit light empresslabs/adonisjs.plugin.zsh
+zinit light baliestridev/adonisjs.plugin.zsh
 ```
 
 #### [zi](https://github.com/z-shell/zi)
 
 ```shell
-zi light empresslabs/adonisjs.plugin.zsh
+zi light baliestridev/adonisjs.plugin.zsh
 ```
 
 #### [zgenom](https://github.com/jandamm/zgenom)
 
 ```shell
-zgenom load empresslabs/adonisjs.plugin.zsh
+zgenom load baliestridev/adonisjs.plugin.zsh
 ```
 
 #### [zplug](https://github.com/zplug/zplug)
 
 ```shell
-zplug empresslabs/adonisjs.plugin.zsh
+zplug baliestridev/adonisjs.plugin.zsh
 ```
 
 ## Usage
@@ -60,4 +60,4 @@ ace # instead of node ace
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
