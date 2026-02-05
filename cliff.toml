@@ -21,6 +21,7 @@ header = """
     <img src="<RAW_MAIN>/.github/assets/day.svg" alt="adonisjs.plugin.zsh">
   </a>
 </p>
+
 """
 # template for the changelog body
 # https://keats.github.io/tera/docs/#introduction
@@ -71,7 +72,6 @@ body = """
     {%- endif %}
 {%- endfor -%}
 {%- endif %}
-
 
 """
 # remove the leading and trailing whitespace from the templates
