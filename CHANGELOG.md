@@ -1,12 +1,4 @@
-<p align="center">
-<a href="#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/baliestridev/adonisjs.plugin.zsh/refs/heads/main/.github/assets/night.svg" alt="adonisjs.plugin.zsh">
-</a>
-
-<a href="#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/baliestridev/adonisjs.plugin.zsh/refs/heads/main/.github/assets/day.svg" alt="adonisjs.plugin.zsh">
-</a>
-</p>
+# Changelog
 
 ## [1.1.0](https://github.com/baliestridev/adonisjs.plugin.zsh/compare/v1.0.1..v1.1.0) - 2026-02-05
 
